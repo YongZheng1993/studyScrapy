@@ -77,12 +77,12 @@ ITEM_PIPELINES = {
 }
 
 # MONGODB 主机环回地址127.0.0.1
-MONGODB_HOST = '106.15.35.240'
+MONGODB_HOST = '*******'
 # 端口号，默认是27017
 MONGODB_PORT = 27020
-MONGODB_USER = 'root'
+MONGODB_USER = '*****'
 # 端口号，默认是27017
-MONGODB_PSW = 'Gstadmin0426'
+MONGODB_PSW = '*****'
 # 设置数据库名称
 MONGODB_DBNAME = 'spiderDB'
 # 存放本次数据的表名称
